@@ -64,12 +64,12 @@ header {
         height: 68vh;
     }
 
-    .me {
+    /*.me {
         width: 10rem;
         position: absolute;
         left: calc(50% - 5rem);
         
-    }
+    } */
 }
 
 /*===== Media Queries (Smaller Device) =====*/
