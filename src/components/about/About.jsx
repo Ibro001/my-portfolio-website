@@ -38,7 +38,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hello i am a fullstack software engineer who loves building
+            Hello i am a fullstack software engineer who love to build
             user-friendly, beautiful React.js and Node.js applications and
             contributing to open source projects.
             
@@ -52,7 +52,7 @@ const About = () => {
             I would love to connect with you, so feel free to reach out! 
           </p>
 
-          <a href="#contact" classsName="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
     </section>
