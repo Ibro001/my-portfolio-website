@@ -64,12 +64,6 @@ header {
         height: 68vh;
     }
 
-    /*.me {
-        width: 10rem;
-        position: absolute;
-        left: calc(50% - 5rem);
-        
-    } */
 }
 
 /*===== Media Queries (Smaller Device) =====*/
@@ -80,13 +74,5 @@ header {
 
     .header__socials, .scroll__down {
         display: none;
-    }
-
-
-    .me {
-        width: 22rem;
-        position: absolute;
-        left: calc(50% - 11rem);
-        
     }
 }
